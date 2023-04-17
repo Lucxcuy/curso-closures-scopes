@@ -1,0 +1,6 @@
+el scope es el alcance que determina la accesibilidad de las variables o donde van las variables a poder ser leidas
+
+diferentes tipos: global, function y blockScope
+
+al final el scope determina la accesibilidad de variables, obj, dunciones desde distintas partes del codigo
+
